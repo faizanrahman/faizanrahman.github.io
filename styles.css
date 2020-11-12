@@ -1,0 +1,29 @@
+h1 {
+    color:blue;
+}
+
+#profile_pic {
+    height:250px;    
+}
+
+.card {
+    display:inline-block;
+}
+
+.icons {
+    width:50px;
+}
+
+.navbar-brand {
+    color: rgba(236, 230, 230, 0.801);
+}
+
+.row {
+    margin-bottom: 30px;
+}
+
+.project {
+    height:250px;
+}
+
+
